@@ -15,7 +15,7 @@ To create the network stack run the following command:
 
 `./create.sh network network.yaml network-parameters.json`                                    
 
-### Update infrastructure
+### Update network
 
 To update the already existing network stack run the following command:
 
